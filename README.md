@@ -33,7 +33,7 @@ Perlindungan terhadap spam dan input berbahaya dengan sanitasi data dan pengguna
 - Akses aplikasi hanya untuk user yang login  
 - Session management untuk keamanan
 
-  °‧ 𓆝 𓆟 𓆞 ·｡
+°‧ 𓆝 𓆟 𓆞 ·｡
 
 ### 📑 Manajemen Buku Tamu 𐙚‧₊˚📜✩ ₊˚⊹♡
 - Tambah, ubah, dan hapus data tamu  
