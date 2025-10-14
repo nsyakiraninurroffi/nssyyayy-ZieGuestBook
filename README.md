@@ -1,7 +1,5 @@
 ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
-
-⋆.˚ ────୨ৎ──── ⋆.˚
 # 📖 𝓩𝓲𝓮𝓖𝓾𝓮𝓼𝓽𝓑𝓸𝓸𝓴 ⋅˚₊‧ ୨🕮୧ ‧₊˚ ⋅
 
 [![PHP](https://img.shields.io/badge/PHP-7%20%2F%208-blue?logo=php)](https://www.php.net/)
@@ -9,7 +7,10 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple?logo=bootstrap)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+⋆.˚ ────୨ৎ──── ⋆.˚
+
 𐙚‧₊˚📒✩ ₊˚☁️⊹♡
+
 Sebuah aplikasi **Buku Tamu Digital** berbasis web menggunakan **PHP + MySQL** dengan tampilan modern dari **SB Admin 2**.  
 Aplikasi ini memungkinkan pencatatan tamu, manajemen data, hingga pembuatan laporan dalam format **Excel** menggunakan **PhpSpreadsheet**.
 
