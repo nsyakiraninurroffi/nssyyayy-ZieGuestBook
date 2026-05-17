@@ -78,7 +78,8 @@ Perlindungan terhadap spam dan input berbahaya dengan sanitasi data dan pengguna
 ## 📂 ˗ˏˋ ꒰ Struktur Folder Utama ✉︎ ꒱ ˎˊ˗🪐✨
 
 ```bash
-Rafa_Buku_Tamu/
+
+nssyyayy-ZieGuestBook/
 ├── assets/                 # CSS, JS, gambar
 │   ├── css/                # Custom CSS (sb-admin-2.min.css, dll.)
 │   ├── js/                 # Script utama (sb-admin-2.min.js, dll.)
