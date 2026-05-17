@@ -115,14 +115,4 @@ Rafa_Buku_Tamu/
    - Data ditampilkan dalam tabel  
    - Klik **Export to Excel** → generate file `Laporan Buku Tamu.xlsx`  
 
----
 
-## ⚡ Instalasi & Setup
-
-1. **Clone project**
-   ```bash
-   git clone https://github.com/username/Rafa_Buku_Tamu.git
-=======
-# ZIE-GuestBook
-i created a Zie-GuestBook application template project with SB Admin 2
->>>>>>> 3d53dde5582bbc34379a72eed99bd646fef25ab4
