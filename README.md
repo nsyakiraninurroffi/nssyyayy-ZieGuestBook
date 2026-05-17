@@ -16,25 +16,19 @@ Aplikasi ini memungkinkan pencatatan tamu, manajemen data, hingga pembuatan lapo
 
 °‧ 𓆝 𓆟 𓆞 ·｡
 
-## 🚀 Fitur Utama✎ᝰ.📓🗒 ˎˊ˗
-- Formulir Buku Tamu
-Pengunjung dapat mengisi data seperti nama, email, pesan, dan waktu kunjungan secara langsung melalui antarmuka web.
-- Penyimpanan Data Otomatis
-Setiap entri tamu disimpan ke database secara real-time untuk kemudahan pengelolaan dan pencatatan.
-- Tampilan Responsif
-Desain antarmuka yang ramah pengguna dan responsif di berbagai perangkat, baik desktop maupun mobile.
-- Validasi Formulir
-Sistem validasi input untuk memastikan data yang dikirimkan lengkap dan sesuai format.
-- Panel Admin (opsional)
-Admin dapat melihat, menghapus, atau mengelola data tamu melalui halaman backend (jika tersedia).
-- Keamanan Dasar
-Perlindungan terhadap spam dan input berbahaya dengan sanitasi data dan penggunaan metode POST.
+## 🚀 Fitur Utama ✎ᝰ.📓🗒 ˎˊ˗
+- **Formulir Buku Tamu:** Pengunjung dapat mengisi data seperti nama, email, pesan, dan waktu kunjungan secara langsung melalui antarmuka web.
+- **Penyimpanan Data Otomatis:** Setiap entri tamu disimpan ke database secara *real-time* untuk kemudahan pengelolaan dan pencatatan.
+- **Tampilan Responsif:** Desain antarmuka yang ramah pengguna dan responsif di berbagai perangkat, baik desktop maupun mobile.
+- **Validasi Formulir:** Sistem validasi input untuk memastikan data yang dikirimkan lengkap dan sesuai format.
+- **Panel Admin:** Admin dapat melihat, menghapus, atau mengelola data tamu melalui halaman *backend*.
+- **Keamanan Dasar:** Perlindungan terhadap spam dan input berbahaya dengan sanitasi data dan penggunaan metode POST.
 
 °‧ 𓆝 𓆟 𓆞 ·｡
 
-### 🔐 Autentikasi Login⋆˚꩜｡
+### 🔐 Autentikasi Login ⋆˚꩜｡
 - Akses aplikasi hanya untuk user yang login  
-- Session management untuk keamanan
+- *Session management* untuk keamanan
 
 °‧ 𓆝 𓆟 𓆞 ·｡
 
@@ -50,7 +44,7 @@ Perlindungan terhadap spam dan input berbahaya dengan sanitasi data dan pengguna
 
 °‧ 𓆝 𓆟 𓆞 ·｡
 
-### 📊 Laporan Tamu‧₊˚🖇️✩ ₊˚📖
+### 📊 Laporan Tamu ‧₊˚🖇️✩ ₊˚📖
 - Filter laporan berdasarkan periode tanggal  
 - Data laporan ditampilkan dalam tabel interaktif  
 - Ekspor laporan ke file **Excel** dengan sekali klik  
@@ -58,18 +52,14 @@ Perlindungan terhadap spam dan input berbahaya dengan sanitasi data dan pengguna
 °‧ 𓆝 𓆟 𓆞 ·｡
 
 ### 🎨 UI Modern
-- Menggunakan template **SB Admin 2 (Bootstrap 4)**  
-- Sidebar navigasi responsif (dengan toggle untuk desktop & mobile)  
-- Tabel interaktif dengan **DataTables**  
+- Menggunakan template **SB Admin 2 (Bootstrap 4)** - Sidebar navigasi responsif (dengan toggle untuk desktop & mobile)  
+- Tabel interaktif dengan **DataTables** °‧ 𓆝 𓆟 𓆞 ·｡
 
-°‧ 𓆝 𓆟 𓆞 ·｡
-
-## 🛠️ Teknologi yang Digunakan💻⋆✴︎˚｡⋆
+## 🛠️ Teknologi yang Digunakan 💻⋆✴︎˚｡⋆
 - **Backend:** PHP 7 / 8  
 - **Database:** MySQL / MariaDB  
 - **Frontend:** Bootstrap 4 (SB Admin 2 Template)  
-- **Library:**  
-  - [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) → ekspor laporan ke Excel  
+- **Library:** - [PhpSpreadsheet](https://phpspreadsheet.readthedocs.io/) → ekspor laporan ke Excel  
   - [FontAwesome](https://fontawesome.com/) → ikon  
   - [jQuery](https://jquery.com/) & [DataTables](https://datatables.net/) → tabel interaktif  
 
@@ -78,7 +68,6 @@ Perlindungan terhadap spam dan input berbahaya dengan sanitasi data dan pengguna
 ## 📂 ˗ˏˋ ꒰ Struktur Folder Utama ✉︎ ꒱ ˎˊ˗🪐✨
 
 ```bash
-
 nssyyayy-ZieGuestBook/
 ├── assets/                 # CSS, JS, gambar
 │   ├── css/                # Custom CSS (sb-admin-2.min.css, dll.)
@@ -96,27 +85,9 @@ nssyyayy-ZieGuestBook/
 ├── laporan.php             # Halaman laporan tamu
 ├── export-laporan.php      # Export laporan ke Excel
 └── composer.json           # Konfigurasi Composer
+```
+---
 
-
-
-## 📊 Alur Aplikasi
-
-1. **Login**  
-   - User masuk menggunakan username & password  
-   - Jika berhasil → diarahkan ke Dashboard  
-
-2. **Dashboard**  
-   - Menampilkan ringkasan data tamu  
-
-3. **Buku Tamu**  
-   - CRUD data tamu (tambah, ubah, hapus)  
-
-4. **Laporan**  
-   - User pilih periode tanggal  
-   - Data ditampilkan dalam tabel  
-   - Klik **Export to Excel** → generate file `Laporan Buku Tamu.xlsx`  
-
-## ---
 <div align="center">
   <p><i>Developed with 🤍 and attention to detail.</i></p>
   <p><b>© 2026 Nesya Kirani Nurroffi. All rights reserved.</b></p>
