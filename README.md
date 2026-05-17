@@ -116,7 +116,7 @@ nssyyayy-ZieGuestBook/
    - Data ditampilkan dalam tabel  
    - Klik **Export to Excel** → generate file `Laporan Buku Tamu.xlsx`  
 
----
+## ---
 <div align="center">
   <p><i>Developed with 🤍 and attention to detail.</i></p>
   <p><b>© 2026 Nesya Kirani Nurroffi. All rights reserved.</b></p>
