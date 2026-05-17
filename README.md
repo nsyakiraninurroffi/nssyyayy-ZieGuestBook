@@ -115,4 +115,4 @@ Rafa_Buku_Tamu/
    - Data ditampilkan dalam tabel  
    - Klik **Export to Excel** → generate file `Laporan Buku Tamu.xlsx`  
 
-
+<p><b>© 2026 Nesya Kirani Nurroffi. All rights reserved.</b></p>
